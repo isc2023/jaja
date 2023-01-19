@@ -1,0 +1,25 @@
+body{
+	background-image:url('../reportes/img/fondo.jpeg');
+	background-image:url('../reportes/img/fondo.jpeg');
+}
+header{
+	margin-top:4%;
+	margin-right: 2%;
+	margin-left: 2%;
+	text-align: center;
+}
+section{
+	margin-left: 2%;
+	margin-right: 2%;
+	
+}
+.pad-basic{
+	padding:.5%;
+}
+.no-btm{
+	margin-bottom: 0%;
+}
+
+.btn-der{
+	text-align: right;
+}
